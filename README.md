@@ -1,1 +1,1 @@
-# 30-Day-Python-DSA-Challenge
+# 30-Day-Python-Challenge
